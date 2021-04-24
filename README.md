@@ -1,6 +1,5 @@
 ### Hi 👋
-##### I'm Nurian! I live in Astolfo Dutra-MG (BR 🌎), I am a computer technician and I am currently studying Bachelor Computer Science at the Federal Institute - Rio Pomba campus.
-##### I am passionate about software development, I am improving myself in Front-end development. My studies focus on JavaScript technologies, such as React Web and React native.
+##### I'm Nurian! I live in Astolfo Dutra-MG (BR 🌎), I am a computer technician and I am currently studying Bachelor Computer Science at the Federal Institute - Rio Pomba campus. <br /> I am passionate about software development, I am improving myself in Front-end development. My studies focus on JavaScript technologies, such as React Web and React native.
 
 #### Check out my statistics 📈 and my other social networks below! 
 
