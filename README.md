@@ -5,10 +5,10 @@
 
 <h1 align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Nuri-an&count_private=true&theme=radical"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nuri-an&layout=compact&theme=radical" />
  </h1>
 
 <h1 align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nuri-an&layout=compact&theme=radical" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=nuriancoelho&v=2&layout=compact&theme=radical" />
 </h1>
 
