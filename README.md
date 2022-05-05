@@ -1,7 +1,7 @@
 ### Eii 👋
 ##### Eu sou a Nurian!
 
-#### Confira minhas estatísticas 📈 e minhas outras redes sociais abaixo! | Check out my statistics 📈 and my other social networks below! 
+#### Confira minhas estatísticas 📈 e minhas outras redes sociais abaixo! 
 
 <h1 align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Nuri-an&count_private=true&theme=radical"/>
